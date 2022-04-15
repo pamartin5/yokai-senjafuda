@@ -1,4 +1,4 @@
-# collectionbuilder-gh
+# My demo collectionbuilder-gh project
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
